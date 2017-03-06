@@ -251,6 +251,7 @@ and better tools such as `Phinx <https://phinx.org/>`_ have emerged. It has been
 the `CakePHP Migrations Plugin <https://github.com/cakephp/migrations>`_ which acts as a wrapper between
 CakePHP and `Phinx <https://phinx.org/>`_.
 
+If schema deos not exsit so what is it doing at https://book.cakephp.org/3.0/en/orm/schema-system.html
 ExtractTask
 -----------
 
